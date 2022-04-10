@@ -2,8 +2,8 @@
 
 let canvas = document.getElementById("myCanvas");
 let ctx = canvas.getContext("2d");
-let width = 800;
-let height = 500;
+let width = canvas.width;
+let height = canvas.height;
 let imageData = ctx.createImageData(width,height);
 
 let r = 155;
