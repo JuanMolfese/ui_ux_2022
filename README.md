@@ -1,2 +1,2 @@
 # ui_ux_2022
-Repositorio para cátedra Interfaces de usuario Unicen 2022
+Luego de ver los dos primeros videos.
